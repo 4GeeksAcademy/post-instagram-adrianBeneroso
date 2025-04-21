@@ -1,0 +1,73 @@
+body{
+   
+    width: 400px;
+margin: auto;
+background-color: black;
+
+}
+.contenedor{
+    margin-top: 30px;
+    width: 400px;
+    height: 500;
+    border: 1px solid;
+    font-family: "Roboto";
+    background-color: white;
+    
+    
+}
+.encabezado{
+    
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+}
+.menu{
+    display: flex;
+}
+.icono-html{
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.icono-menu{
+    padding-top: 20px;
+    padding-right: 10px;
+}
+
+
+.foto img{
+    width: 400px;
+    height: 300px;
+    
+}
+.pie-foto{
+   margin-top: 20px;
+   
+    height: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+.pie-foto i{
+    padding-right: 10px;
+}
+.iconos-pie-foto{
+    display: flex;
+    
+}
+.iconos-pie-foto i{
+    padding-left: 10px;
+}
+.comentarios{
+   
+    height: 150px;
+    font-size: 11px;
+    text-align: justify;
+
+    
+}
+.comentarios p{
+margin-right: 20px;
+margin-left: 20px;
+}
+
